@@ -1,5 +1,6 @@
 {
-  "name": "ai-in-frontend",
+  "name": "CodeLensAI",
+  "author": "Shobhit Srivastava",
   "private": true,
   "version": "0.0.0",
   "type": "module",
