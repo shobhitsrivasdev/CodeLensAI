@@ -1,0 +1,5 @@
+# CodeLensAI
+
+```
+npm i
+```
